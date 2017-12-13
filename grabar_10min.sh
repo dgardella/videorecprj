@@ -1,5 +1,9 @@
-video_prefix=mama-cam1
+#
+#
+
+video_prefix=mamacam1
 video_interval=300
+video_dir=/home/osboxes/Videos
 echo " Recording Video / interval : $video_interval Segs"
 while true;
 do
